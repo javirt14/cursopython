@@ -4,7 +4,7 @@ info:
   title: Hello World App
 # during dev, should point to your local machine
 #host: localhost:10010
-host: cursoPython.appspot.com
+host: cursopython.appspot.com
 # basePath prefixes all resource paths 
 basePath: /
 # 
