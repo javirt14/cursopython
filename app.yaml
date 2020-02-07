@@ -17,4 +17,4 @@ endpoints_api_service:
   config_id: 2020-02-06r0  # este config_id se cambia de acuerdo a la fecha actual 
 # [END configuration]
 readiness_check:
-  app_start_timeout_sec: 600
+  app_start_timeout_sec: 1000
