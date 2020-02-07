@@ -6,8 +6,8 @@ info:
 #host: localhost:10010
 host: cursopython-267421.appspot.com
 x-google-endpoints:
-  - name: 'cursopython-267421.appspot.com'
-allowCors: 'true'
+- name: 'cursopython-267421.appspot.com'
+  allowCors: 'true'
 # basePath prefixes all resource paths 
 basePath: /
 # 
